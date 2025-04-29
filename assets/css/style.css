@@ -1,0 +1,31 @@
+.formulario-container {
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    padding: 20px; 
+    margin-top: 30px; 
+}
+
+.signo-nome {
+    font-size: 3em; 
+    margin-bottom: 15px; 
+}
+
+body.resultado-pagina {
+    background: linear-gradient(to bottom, #a8dadc, #457b9d); 
+    color: white; 
+    min-height: 100vh; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.container.resultado-container {
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);}
+.signo-nome {
+    color: #1d3557; 
+}
